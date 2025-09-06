@@ -1,6 +1,7 @@
 # Graph Builder
 
 A simple and interactive graph visualization tool built with Flutter. This application allows you to dynamically create and manage a tree-like graph structure.
+Main Code is in lib/main.dart
 
 ## Features
 
